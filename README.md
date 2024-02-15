@@ -53,7 +53,7 @@ rainy,75.0,80.0,false,yes
 8) Click on edit button which shows employee table on weka.
 
 ### OUTPUT:
-```
+``
 
 ![image](https://github.com/Thenmozhi-Palanisamy/WDM_EXP1/assets/95198708/d36421f6-3100-4c2e-b7fd-fe1ac652ab2e)
 
@@ -78,7 +78,8 @@ rainy,75.0,80.0,false,yes
 14) Click on the Edit button, it shows a new Weather Table on Weka.
 
 ### OUTPUT:
-````
+
+``
 
 ![image](https://github.com/Thenmozhi-Palanisamy/WDM_EXP1/assets/95198708/005367af-c719-4891-a1cf-4f0423cb074d)
 
